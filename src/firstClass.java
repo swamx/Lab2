@@ -4,8 +4,10 @@ public class firstClass {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		int a =10;
+		String S = "Hello";
 		System.out.println("Hello World");
 		System.out.println("\n Value of a is" + a);
+		System.out.println("String is " + S);
 	}
 
 }
